@@ -1,0 +1,21 @@
+import java.util.*;
+public class Array
+{
+	public static void main (String args[])
+	{
+	int[] = new int()
+	Scanner a = new Scanner(System.in);
+	System.out.println("Enter the value of n")
+	int n = a.nextInt();
+	System.out.println("Enter the elements of the array");
+	for(int i=0; i<n; i++)
+	{
+	arr[i]= a.nextInt();
+	}
+	for( i=0; i<n; i++)
+	{
+	System.out.println(arr(i)+"");
+	}
+	
+	}
+	}
